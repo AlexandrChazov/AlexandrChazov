@@ -1,6 +1,6 @@
-### Hi there I'm Alexandr - aka anony_moose 👋
+### Hi there I'm Alexandr - aka FireYourGuns 👋
 
-Here are some ideas to get you started:
+#I'am a front-end developer
 
 - 🔭 I’m currently working on a React project
 - 🌱 I’m currently learning TypeScript
@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Stack:
-HTML5 CSS3 Sass JavaScript React TypeScript
+🏆 ##Stack:
+https://en.wikipedia.org/wiki/HTML CSS3 Sass JavaScript React TypeScript
 
 
 
