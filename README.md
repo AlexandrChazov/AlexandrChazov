@@ -15,10 +15,13 @@ Connect with me:
 
 
 
-<a href="https://ru.wikipedia.org/wiki/HTML"><img src="https://user-images.githubusercontent.com/60598547/119217439-c0286e00-bac9-11eb-9c92-93f36757f533.png" width="60" height="60"></a>
-<img src="https://user-images.githubusercontent.com/60598547/119217439-c0286e00-bac9-11eb-9c92-93f36757f533.png"
-     alt="HTML"
-     width="60px" />
+<a href="https://ru.wikipedia.org/wiki/HTML">
+     <img src="https://user-images.githubusercontent.com/60598547/119217439-c0286e00-bac9-11eb-9c92-93f36757f533.png" 
+          alt="HTML.png"
+          width="60" 
+          height="60">
+</a>
+
 <img src="https://user-images.githubusercontent.com/60598547/119216744-062f0300-bac5-11eb-8e94-2741e9d464a7.png"
      alt="CSS"
      width="60px" />
