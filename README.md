@@ -17,7 +17,7 @@ Connect with me:
 <img src="https://user-images.githubusercontent.com/60598547/119216744-062f0300-bac5-11eb-8e94-2741e9d464a7.png"
      alt="CSS"
      width="60px" />
-<img src="https://user-images.githubusercontent.com/60598547/119216758-1810a600-bac5-11eb-8783-447fa1f31176.png"
+<img src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg"
      alt="Sass"
      width="60px" /> 
 <img src="https://user-images.githubusercontent.com/60598547/119216766-2363d180-bac5-11eb-8b9d-3b3e4a573271.png"
