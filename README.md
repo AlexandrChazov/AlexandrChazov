@@ -1,54 +1,123 @@
-### Hi there I'm Alexandr - aka FireYourGuns 👋
+### Hi there I'm Alexandr Chazov - aka FireYourGuns 👋
 
 # I'am a front-end developer
 
-- 🔭 I’m currently working on a React project
-- 🌱 I’m currently learning TypeScript
-- 👯 I’m looking for a job offer
+- 💻 I’m currently working on a React project
+- 📚 I’m currently learning TypeScript
+- 🔎 I’m looking for a job offer
 
-Connect with me:
+## 📞 Connect with me:
 
+<a href="https://vk.com/id5289681">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Vk_Logo.svg/1024px-Vk_Logo.svg.png" 
+          alt="HTML.png"
+          width="40">
+</a>
+<a href="https://web.telegram.org/#/im?p=g455389579">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/480px-Telegram_Messenger.png" 
+          alt="HTML.png"
+          width="40">
+</a>
 
 ## 🏆 Stack:
-
-
-
-
 
 <a href="https://ru.wikipedia.org/wiki/HTML">
      <img src="https://user-images.githubusercontent.com/60598547/119217439-c0286e00-bac9-11eb-9c92-93f36757f533.png" 
           alt="HTML.png"
+          width="60">
+</a>
+<a href="https://ru.wikipedia.org/wiki/CSS">
+     <img src="https://user-images.githubusercontent.com/60598547/119216744-062f0300-bac5-11eb-8e94-2741e9d464a7.png" 
+          alt="CSS.png"
+          width="60">
+</a>
+<a href="https://sass-scss.ru/">
+     <img src="https://user-images.githubusercontent.com/60598547/119216758-1810a600-bac5-11eb-8783-447fa1f31176.png" 
+          alt="Sass.png"
+          width="60">
+</a>
+<a href="https://ru.wikipedia.org/wiki/JavaScript">
+     <img src="https://user-images.githubusercontent.com/60598547/119216766-2363d180-bac5-11eb-8b9d-3b3e4a573271.png" 
+          alt="JS.png"
+          width="60">
+</a>
+<a href="https://ru.reactjs.org/">
+     <img src="https://user-images.githubusercontent.com/60598547/119216771-2d85d000-bac5-11eb-8316-9c42247c485f.png" 
+          alt="React.png"
           width="60" 
           height="60">
 </a>
+<a href="https://redux.js.org/">
+     <img src="https://www.vergic.com/wpsitefiles_de3fxs/wp-content/uploads/2017/04/logo.png" 
+          alt="Redux.png"
+          width="60">
+</a>
+<a href="https://webpack.js.org/">
+<img src="https://habrastorage.org/webt/k-/tm/2g/k-tm2gvbb_ky6gdrd-tzqrzjkf4.png" 
+          alt="webpack.png"
+          width="60">
+</a>
 
-<img src="https://user-images.githubusercontent.com/60598547/119216744-062f0300-bac5-11eb-8e94-2741e9d464a7.png"
-     alt="CSS"
-     width="60px" />
-<img src="https://user-images.githubusercontent.com/60598547/119217800-2d3d0300-bacc-11eb-99cc-319db173af51.png"
-     href="frg"
-     width="60px" /> 
-<img src="https://user-images.githubusercontent.com/60598547/119216766-2363d180-bac5-11eb-8b9d-3b3e4a573271.png"
-     alt="JS"
-     width="60px" />  
-<img src="https://user-images.githubusercontent.com/60598547/119216771-2d85d000-bac5-11eb-8316-9c42247c485f.png"
-     alt="React"
-     width="60px" />       
-<img src="https://user-images.githubusercontent.com/60598547/119216775-38406500-bac5-11eb-9751-a3f744b2b8a8.png"
-     alt="Redux"
-     width="60px" />
-     
-## Tools:     
-<img src="https://user-images.githubusercontent.com/60598547/119217306-dd107180-bac8-11eb-9038-27af90b45eb5.png"
-     alt="VSCode"
-     width="60px" />
-<img src="https://user-images.githubusercontent.com/60598547/119217321-f7e2e600-bac8-11eb-9974-7fe563e1171a.png"
-     alt="GitHub"
-     width="60px" />
-<img src="https://user-images.githubusercontent.com/60598547/119217341-1e088600-bac9-11eb-9d56-36a6f7538716.png"
-     alt="git"
-     width="60px" />
-<!-- <img src="![](https://camo.githubusercontent.com/ef97122d50b2b5f9c1564463e7e4dc20be81b81afa93f6f33499226d06e70d66/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e332e302f69636f6e732f6e706d2e737667)"
-     alt="npm"
-     width="60px" /> -->
+## 🔨 Tools:
+<a href="https://www.jetbrains.com/ru-ru/webstorm/">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1024px-WebStorm_Icon.svg.png" 
+          alt="WebStorm.png"
+          width="60">
+</a>
+<a href="https://code.visualstudio.com/">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" 
+          alt="VSCode.png"
+          width="60">
+</a>
+<a href="https://github.com/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" 
+          alt="GitHub.png"
+          width="60">
+</a>
+<a href="https://git-scm.com/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" 
+          alt="git.png"
+          width="60">
+</a>
+<a href="https://www.npmjs.com/">
+<img src="https://veronikamishkovec.github.io/img/npm.png" 
+          alt="npm.png"
+          width="60">
+</a>
+<a href="https://jestjs.io/">
+<img src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" 
+          alt="Jest.png"
+          width="60">
+</a>
 
+<a href="https://eslint.org/">
+<img src="https://cdn.worldvectorlogo.com/logos/eslint-1.svg" 
+          alt="eslint.png"
+          width="60">
+</a>
+<a href="https://prettier.io/">
+<img src="https://iconape.com/wp-content/files/tt/89177/svg/prettier-2.svg" 
+          alt="eslint.png"
+          width="60">
+</a>
+<a href="https://ru.wikipedia.org/wiki/Markdown">
+<img src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/205_Markdown_logo_logos-512.png" 
+          alt="eslint.png"
+          width="60">
+</a>
+
+## 📖 In Progress...
+
+<a href="https://www.typescriptlang.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" 
+          alt="TypeScript.png"
+          width="60">
+</a>
+
+## 👓 New things I'm about to learn:
+
+<a href="https://nodejs.org/en/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" 
+          alt="NodeJS.png"
+          width="60">
+</a>
