@@ -11,7 +11,7 @@ Connect with me:
 
 ## 🏆 Stack:
 
-<img src="![html](https://user-images.githubusercontent.com/60598547/119217241-62dfed00-bac8-11eb-98c5-bf915ff397f5.png)"
+<img src="![html](https://user-images.githubusercontent.com/60598547/119217439-c0286e00-bac9-11eb-9c92-93f36757f533.png)"
      alt="HTML"
      width="60px" />
 <img src="https://user-images.githubusercontent.com/60598547/119216744-062f0300-bac5-11eb-8e94-2741e9d464a7.png"
