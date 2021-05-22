@@ -11,7 +11,8 @@ Connect with me:
 
 ## 🏆 Stack:
 
-<a href="https://ru.wikipedia.org/wiki/HTML"><span style="width:60px;">![](https://user-images.githubusercontent.com/60598547/119217439-c0286e00-bac9-11eb-9c92-93f36757f533.png){:height="60px" width="60px"}</span></a>
+![](https://user-images.githubusercontent.com/60598547/119217439-c0286e00-bac9-11eb-9c92-93f36757f533.png){:height="60px" width="60px"}
+<a href="https://ru.wikipedia.org/wiki/HTML"><span>![](https://user-images.githubusercontent.com/60598547/119217439-c0286e00-bac9-11eb-9c92-93f36757f533.png){:height="60px" width="60px"}</span></a>
 <img src="https://user-images.githubusercontent.com/60598547/119217439-c0286e00-bac9-11eb-9c92-93f36757f533.png"
      alt="HTML"
      width="60px" />
