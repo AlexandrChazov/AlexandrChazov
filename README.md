@@ -11,8 +11,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-🏆 ## Stack:
-https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png CSS3 Sass JavaScript React TypeScript
+## 🏆 Stack:
+![image](https://user-images.githubusercontent.com/60598547/119216709-c831df00-bac4-11eb-949c-f7dd13ea5045.png) CSS3 Sass JavaScript React TypeScript
 
 
 
