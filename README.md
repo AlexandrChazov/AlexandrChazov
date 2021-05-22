@@ -17,8 +17,8 @@ Connect with me:
 <img src="https://user-images.githubusercontent.com/60598547/119216744-062f0300-bac5-11eb-8e94-2741e9d464a7.png"
      alt="CSS"
      width="60px" />
-<img src="![Sass](https://user-images.githubusercontent.com/60598547/119217800-2d3d0300-bacc-11eb-99cc-319db173af51.png)"
-     
+<img src="https://user-images.githubusercontent.com/60598547/119217800-2d3d0300-bacc-11eb-99cc-319db173af51.png"
+     href="frg"
      width="60px" /> 
 <img src="https://user-images.githubusercontent.com/60598547/119216766-2363d180-bac5-11eb-8b9d-3b3e4a573271.png"
      alt="JS"
