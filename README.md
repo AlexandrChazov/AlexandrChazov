@@ -1,6 +1,6 @@
 ### Hi there I'm Alexandr - aka FireYourGuns 👋
 
-#I'am a front-end developer
+# I'am a front-end developer
 
 - 🔭 I’m currently working on a React project
 - 🌱 I’m currently learning TypeScript
@@ -11,8 +11,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-🏆 ##Stack:
-https://en.wikipedia.org/wiki/HTML CSS3 Sass JavaScript React TypeScript
+🏆 ## Stack:
+https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png CSS3 Sass JavaScript React TypeScript
 
 
 
