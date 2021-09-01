@@ -4,7 +4,6 @@
 
 - 💻 I’m currently working on a React project
 - 📚 I’m currently learning TypeScript
-- 🔎 I’m looking for a job offer
 
 ## 🏆 Stack:
 
