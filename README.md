@@ -2,8 +2,8 @@
 
 # I'am a front-end developer
 
-- 💻 I’m currently working on a React project
-- 📚 I’m currently learning TypeScript
+- 💻 I’m currently working on a Node.js project
+- 📚 I’m currently learning Node.js
 
 ## 🏆 Stack:
 
@@ -25,6 +25,11 @@
 <a href="https://ru.wikipedia.org/wiki/JavaScript">
      <img src="https://user-images.githubusercontent.com/60598547/119216766-2363d180-bac5-11eb-8b9d-3b3e4a573271.png" 
           alt="JS.png"
+          width="50">
+</a>
+<a href="https://www.typescriptlang.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" 
+          alt="TypeScript.png"
           width="50">
 </a>
 <a href="https://ru.reactjs.org/">
@@ -94,17 +99,17 @@
 
 ## 📖 In Progress...
 
-<a href="https://www.typescriptlang.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" 
-          alt="TypeScript.png"
-          width="50">
+<a href="https://nodejs.org/en/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" 
+          alt="NodeJS.png"
+          width="60">
 </a>
 
 ## 👓 New things I'm about to learn:
 
-<a href="https://nodejs.org/en/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" 
-          alt="NodeJS.png"
+<a href="https://www.mongodb.com/">
+<img src="https://habrastorage.org/getpro/habr/upload_files/326/996/b98/326996b98ced2e00f7744ba30fca0e69.jpeg" 
+          alt="MongoDB.png"
           width="60">
 </a>
 
