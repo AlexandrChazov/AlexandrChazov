@@ -1,4 +1,4 @@
-### Hi there, I'm Alexandr Chazov - aka FireYourGuns 👋
+### Hi there, I'm Alexandr Chazov 👋
 
 # I'am a front-end developer
 
