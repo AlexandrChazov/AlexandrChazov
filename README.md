@@ -1,6 +1,6 @@
 ### Hi there, I'm Alexandr Chazov 👋
 
-# I'am a front-end developer
+# I'am a full stack JavaScript/Node.js developer
 
 - 💻 I’m currently working on a Node.js project
 - 📚 I’m currently learning Node.js
