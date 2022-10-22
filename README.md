@@ -5,7 +5,7 @@
 - 💻 I’m currently working on a React/NestJS project
 - 📚 I’m currently learning Node.js
 
-## 🏆 Stack:
+## 🏆 Frontend Stack:
 
 <a href="https://ru.wikipedia.org/wiki/JavaScript">
      <img src="https://user-images.githubusercontent.com/60598547/119216766-2363d180-bac5-11eb-8b9d-3b3e4a573271.png" 
@@ -22,16 +22,6 @@
           alt="React"
           width="60" 
           height="60">
-</a>
-<a href="https://nodejs.org/en/">
-     <img src="https://nodejs.org/static/images/logo.svg" 
-          alt="NodeJS"
-          width="60">
-</a>
-<a href="https://nestjs.ru/">
-     <img src="https://pbs.twimg.com/profile_images/1110148780991623201/vlqCsAVP_400x400.png" 
-          alt="NestJS"
-          width="60">
 </a>
 <a href="https://ru.wikipedia.org/wiki/HTML">
      <img src="https://user-images.githubusercontent.com/60598547/119217439-c0286e00-bac9-11eb-9c92-93f36757f533.png" 
@@ -66,6 +56,34 @@
 <a href="https://docs.cypress.io/">
 <img src="https://docs.cypress.io/_nuxt/img/cypress-logo.a2e1292.svg" 
           alt="webpack"
+          width="60">
+</a>
+
+## 🏆 Backend Stack:
+
+<a href="https://nodejs.org/en/">
+     <img src="https://nodejs.org/static/images/logo.svg" 
+          alt="NodeJS"
+          width="60">
+</a>
+<a href="https://nestjs.ru/">
+     <img src="https://pbs.twimg.com/profile_images/1110148780991623201/vlqCsAVP_400x400.png" 
+          alt="NestJS"
+          width="60">
+</a>
+<a href="https://www.mysql.com/">
+     <img src="https://raw.githubusercontent.com/docker-library/docs/c408469abbac35ad1e4a50a6618836420eb9502e/mysql/logo.png" 
+          alt="MySQL"
+          width="60">
+</a>
+<a href="https://www.postgresql.org/">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" 
+          alt="Postrges"
+          width="60">
+</a>
+<a href="https://www.mongodb.com/">
+     <img src="https://miro.medium.com/max/512/1*doAg1_fMQKWFoub-6gwUiQ.png" 
+          alt="Postrges"
           width="60">
 </a>
 <a href="https://swagger.io/">
